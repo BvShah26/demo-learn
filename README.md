@@ -1,7 +1,5 @@
 ## Demo Project
 
-# second
-
-# Thirda
+# update branch
 
 First Line
